@@ -12,6 +12,8 @@ float wallis_pi(int x) {
     pi=pdt*2;
   return pi;
 }
+float wallis_pi(1000);
+
     
     
    
